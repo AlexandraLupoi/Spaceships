@@ -207,7 +207,6 @@ void nava() {
           if (matrice[obstacol][j] == 0 || j > maxMatrice)
             dreapta = -1;
         }
-        lc.setLed(0, arma, pozitieX, false);
         scor = scor + nr;
         arma = -1;
       }

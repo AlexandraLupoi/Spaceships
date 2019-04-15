@@ -38,7 +38,3 @@
   In caz afirmativ trebuie miscat de joystick in stanga si astfel jocul incepe din nou de la primul nivel.
   In caz negativ trebuie miscat de joystick in dreapta si astfel jocul se inchide.
 ```
-### Demonstratie
-```
-  https://www.youtube.com/watch?v=wZguIglTMtQ
-```
